@@ -90,7 +90,8 @@
                             "product": ["room:write"]
                           },
                           "usersAccesses": {
-                            "florent": ["room:write"]
+                            "florent": ["room:write"],
+                            "olivier": ["room:read"]
                           }
                         }
                       ]
