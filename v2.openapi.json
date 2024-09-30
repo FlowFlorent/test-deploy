@@ -90,7 +90,8 @@
                             "product": ["room:write"]
                           },
                           "usersAccesses": {
-                            "florent": ["room:write"]
+                            "florent": ["room:write"],
+                            "olivier": ["room:read"]
                           }
                         }
                       ]
@@ -133,7 +134,7 @@
                       "lastConnectionAt": "2022-08-22T15:10:25.225Z",
                       "createdAt": "2022-08-22T15:10:25.225Z",
                       "metadata": {
-                        "color": "blue"
+                        "color": "red"
                       },
                       "defaultAccesses": ["room:write"],
                       "groupsAccesses": {
